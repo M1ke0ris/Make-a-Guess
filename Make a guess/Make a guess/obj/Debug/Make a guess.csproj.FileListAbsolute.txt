@@ -1,0 +1,6 @@
+C:\Users\MIsha\RiderProjects\Make a guess\Make a guess\bin\Debug\Make_a_guess.exe
+C:\Users\MIsha\RiderProjects\Make a guess\Make a guess\bin\Debug\Make_a_guess.pdb
+C:\Users\MIsha\RiderProjects\Make a guess\Make a guess\obj\Debug\Make a guess.csprojAssemblyReference.cache
+C:\Users\MIsha\RiderProjects\Make a guess\Make a guess\obj\Debug\Make a guess.csproj.CoreCompileInputs.cache
+C:\Users\MIsha\RiderProjects\Make a guess\Make a guess\obj\Debug\Make_a_guess.exe
+C:\Users\MIsha\RiderProjects\Make a guess\Make a guess\obj\Debug\Make_a_guess.pdb
